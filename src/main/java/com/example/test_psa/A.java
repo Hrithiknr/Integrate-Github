@@ -6,4 +6,6 @@ public class A {
     int y = 20;
 
     int z = x+y;
+
+     double a = x*y;
 }
